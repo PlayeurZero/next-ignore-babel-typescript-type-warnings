@@ -1,6 +1,6 @@
 {
   "name": "next-ignore-babel-typescript-type-warnings",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Next.js plugin to ignore warnings issued from @babel/typescript plugin.",
   "main": "index.js",
   "scripts": {
