@@ -1,0 +1,18 @@
+{
+  "name": "next-ignore-babel-typescript-type-warnings",
+  "version": "0.1.0",
+  "description": "A Next.js plugin to ignore warnings issued from @babel/typescript plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas MATHIEU <n.mathieu@splitfire.fr>",
+  "license": "Mozilla Public License 2.0",
+  "peerDependencies": {
+    "webpack": "4.x.x"
+  },
+  "dependencies": {
+    "ignore-babel-typescript-type-warnings-webpack-plugin": "github:playeurzero/ignore-babel-typescript-type-warnings-webpack-plugin"
+  }
+}
